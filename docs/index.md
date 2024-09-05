@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Johanna Hoonsun Lee"
+  text: "Portfolio"
+  tagline: "a place for rediscoveries"
   actions:
     - theme: brand
       text: Template Repository
