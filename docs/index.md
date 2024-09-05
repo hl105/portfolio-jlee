@@ -8,18 +8,19 @@ hero:
   tagline: "a place for rediscoveries"
   actions:
     - theme: brand
-      text: Template Repository
-      link: "https://github.com/61040-fa24/vitepress-template"
+      text: Visit Github
+      link: "https://github.com/hl105"
     - theme: alt
-      text: Example Site
-      link: "https://61040-fa24.github.io/portfolio-dhua/"
+      text: Linkedin Page
+      link: "https://www.linkedin.com/in/johanna-lee-367221250/"
 
 features:
   - title: Blogs
-    details: Some cool blogs you'll write this semester!
+    details: Visit my blog posts
     link: /blogs
-  - title: Assignments
-    details: All of your assignments will be posted on your portfolio.
+  - title: 6.1040 Assignments
+    details: All of my Software Design Class assignments
   - title: About Me
-    details: You'll implement a small bio about yourself on here!
+    details: Learn more about Johanna
+    link: /about
 ---
