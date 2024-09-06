@@ -1,0 +1,95 @@
+
+
+body{
+    overflow-y: auto;
+    display: flex;
+    flex-direction:column;
+}
+
+img{
+    border:2px solid #1f2937;
+    border-radius: 4px;
+}
+
+
+.content1{
+    display:flex;
+    gap: 50px;
+    justify-content: center;
+    align-items:center;
+}
+
+.activities-list li {
+    margin-bottom: 10px; 
+}
+
+
+.activities-list li a {
+    font-size: 16px; /* Size of the link text */
+    text-decoration: none; /* Removes underline from links */
+    line-height: 1.5; /* Line height for each link */
+    padding-left: 10px; /* Padding inside the links, useful for custom bullet points or spacing */
+    padding-right: 10px;
+    display: block; /* Makes the entire area clickable, not just the text */
+    border-radius: 5px;
+}
+
+.activities-list li a:hover,
+.activities-list li a:focus {
+    background-color: #1f2937; /* Background color when hovered/focused */
+    text-decoration: underline; /* Adds underline on hover/focus for visual feedback */
+}
+
+
+.content1 .text{
+    font-size:18px;
+}
+
+.content1 img{
+    border:2px;
+    border-radius:10%;
+    margin-top: 20%;
+}
+
+
+/*content 2, describe page content*/
+
+.content2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.content2 .title{
+    font-size:36px;
+    font-weight: 600;
+    padding: 30px;
+}
+
+.content2 img{
+    width: 100%;
+}
+
+.content2 .images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 35px; /* Adjust the gap between items as needed */
+    flex-wrap: nowrap;
+}
+
+
+.image-text{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.image-text-button {
+    text-decoration: none; /* Removes underline from links */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
