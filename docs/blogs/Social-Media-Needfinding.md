@@ -36,16 +36,16 @@ Conducted on September 7th
 - **How often do you post on social media? Are they usually videos? pictures? text?**
     - instagram stories >>> posts bc you can check up to stories up to one day but it doesn’t last forever. <- this bc i don’t want ppl stalking my posts / intimidating / don’t like that if someone follows me they can immediately see my post. Most of my friends are like that
     - usually x modify a photo (usually captions/locations) / boomerang
-- If you were to find pictures from the past, how would you look for them?
+- **If you were to find pictures from the past, how would you look for them?**
     - I don’t actively look for past memory collections -> check photos app -> it’s hard to locate past stoires -> look thru that
-- How were you introduced to social media apps?
+- **How were you introduced to social media apps?**
     - everyone else used it -> I started using it
-- How would you typically use a social media app?(Do you spend a lot of time interacting with your friends on those platforms, or do you mostly scroll )
+- **How would you typically use a social media app?(Do you spend a lot of time interacting with your friends on those platforms, or do you mostly scroll )**
     - only use instagram: check on other ppl’s stories -> use it as a messenger app -> watch reels and share them on the chat
-- Is there something you like/dislike abt your social media platforms?
+- **Is there something you like/dislike abt your social media platforms?**
     - it takes up too much time in my life (instagram reels) check on ppl’s lives
     avg 1-2 hour per day on the app
-- Have you stopped using a social media app before? Why?
+- **Have you stopped using a social media app before? Why?**
     - facebook -> bc noone uses facebook anymore
     - snapchat -> in korea everyone has a acc but they x use / u can do all the features on instagram
 
@@ -53,25 +53,25 @@ Conducted on September 7th
 
 Conducted on September 7th
 
-- Can you tell me a little about yourself?
+- **Can you tell me a little about yourself?**
     - Person B worked for a few years → med school
-- Any exciting events this summer?
+- **Any exciting events this summer?**
     - I went back home (Korea) to see friends and family
-- Did you take a lot of pics? How did you share it with your friends/family?
+- **Did you take a lot of pics? How did you share it with your friends/family?**
     - finsta (friends instagram- 1 post dump at the end of the break)/stories once a week / post it in the group chat / singular filter if any - photo is alraedy good enough
-- How often do you post on social media? Are they usually videos? pictures? text
+- **How often do you post on social media? Are they usually videos? pictures? text**
     - 9 pictures and 1 video (have a set style)
-- If you were to find pictures from the past, how would you look for them?
+- **If you were to find pictures from the past, how would you look for them?**
     - backup photos on google drive / or icloud / search function on photos app
-    *often look back on finsta photos posted on instagram
-- How were you introduced to social media apps?
+    - often look back on finsta photos posted on instagram
+- **How were you introduced to social media apps?**
     - I was using google buzz (10) built in social app to gmail -> failed app google plus -> mom won’t let me have facebook -> went out of service /friends moved to facebook  (more ppl on facebook)
-- How would you typically use a social media app?(Do you spend a lot of time interacting with your friends on those platforms, or do you mostly scroll )
+- **How would you typically use a social media app?(Do you spend a lot of time interacting with your friends on those platforms, or do you mostly scroll )**
     - for influencers content creators / algorithm feed (but when i started it it was chat/friends) use facebook only for chat(messenger) / to keep in touch
-- Is there something you like/dislike abt your social media platforms?
+- **Is there something you like/dislike abt your social media platforms?**
     - funny how i’m constanly curating a smaller list of ppl
     - x want to scroll on the page
-- Have you stopped using a social media app before? Why?
+- **Have you stopped using a social media app before? Why?**
     - instagram predominantly, zero follower/following twitter count to scroll on feed, facebook account, messenger
 
 ## Design Opportunites
