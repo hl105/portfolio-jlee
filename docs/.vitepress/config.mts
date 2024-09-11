@@ -21,6 +21,10 @@ export default defineConfig({
     //   },
     // ],
 
-    socialLinks: [{ icon: "github", link: "https://github.com/61040-fa24" }],
+    socialLinks: [
+      { icon: "github", link: "https://github.com/hl105"},
+      { icon: "linkedin", link: "linkedin.com/in/johanna-lee-367221250/"},
+      { icon: ""}]
+
   },
 });
