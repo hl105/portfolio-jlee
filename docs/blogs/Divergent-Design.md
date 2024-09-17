@@ -3,6 +3,8 @@ title: Divergent-Design
 layout: doc
 ---
 
+# Divergent Design
+
 ## Broad application goals
 
 1. name: memorify  / melodiary / recording / …
