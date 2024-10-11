@@ -8,6 +8,7 @@ layout: doc
 ![bb.jpg](../blog_assets/bb.jpeg)
 
 - full code in https://github.com/hl105/backend-starter
+- deployed service: https://backend-starter-steel.vercel.app/
 
 ## **Design Reflection**
 
