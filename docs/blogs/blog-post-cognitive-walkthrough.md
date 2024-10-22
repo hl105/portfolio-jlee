@@ -46,7 +46,7 @@ If you guessed `uncertainty reduction`, you’re right! Our professor proposed a
 - The `observable action` part is something a viewer can observe, like the message that shows up on the ATM
 - The `unobservable action` part is where we can ask the 4 questions or other comments about the action.
 
-According to our professor, thie k-script acts as a “easy way to convey basic functionality.” By adding the 4 questions of the `cognitive walkthrough` proposed in class at each step, we can further break down the steps in detail. I hope that with this clear table structure provided as a k-script, we can create the `cognitive walkthrough` process more easily. 
+According to our professor, thie k-script acts as a “easy way to convey basic functionality.” By adding the 4 questions of the `cognitive walkthrough` proposed in class at each step, we can further break down the steps in detail. I hope that with this clear table structure provided as a k-script, we can create the `cognitive walkthrough` process more easily. For example, using the k-script for the ATM cognitive walkthrough, we noticed new problems such as the language automatically being English, as we set a customer persona and follow that person's dialogue with the product. By making this as detailed as possible, we can identify problems that might have been overseen otherwise. 
 
 ## Sources
 
