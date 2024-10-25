@@ -45,4 +45,4 @@ I want to use colors that are associated with music, which is my references are 
 Likewise, I want to use a minimal number of fonts, if not only one. Gills Sans seems simple and known for its legibility, so I plan to use this one.
 
 ## GPT USE
-Like for the backend implementation, I used GPT to debug. Also, I used it for css a lot, such as adding the vinyl animation. 
+Like for the backend implementation, I used GPT to debug. Especially, I used it for debugging css, such as adding the vinyl animation. 
