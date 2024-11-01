@@ -75,11 +75,11 @@ Next I asked her to find only friends’ snapshots, I spotted a very interesting
 ### Opportunities for Improvement
 
 - Allow users to edit or delete covers. 
-    - Jasmine asked if she could delete the cover she posted without an image.
+    - Jasmine asked if she could delete the cover she posted without an image. I plan to make the cover more interactive by adding a clicking effect on top of the hovering effect that exists right now. When clicked, the user would be able to see cover settings and details (when cover was created and locked). 
     - major
     - physical
 - fix glitching when hovering over text.
-    - Instead of user image, make it so that the user can hover over the cover image itself so that there is more physical space for the mouse to hover over. 
+    - Instead of user image, make it so that the user can hover over the cover image itself so that there is more physical space for the mouse to hover over. This should be a quick fix, but is critical since it disrupts the user experience significantly.
     - critical
     - physical
 - mention as a popup that only screenshots are allowed for now, because of max image size limit that is allowed to be passed in without external packages.
