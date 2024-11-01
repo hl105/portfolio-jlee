@@ -49,7 +49,7 @@ When I told her this time to try creating a snapshot, she followed all the steps
     - major
 - Snapshot hints
     - add a `click to reveal` popup when user visits the snapshots page, so that the user knows what to do.
-    - add a `expires on` under each snapshot to highlight the expiration feature
+    - add a `expires on` text under each snapshot to highlight the expiration feature
     - conceptual
     - critical
 - More Friend Features
@@ -71,16 +71,23 @@ Next I asked her to find only friends’ snapshots, I spotted a very interesting
 ### Opportunities for Improvement
 
 - Add Cover features
-    - allow users to edit/delete covers.
+    - allow users to edit/delete covers. 
+        - Jasmine asked if she could delete the cover she posted without an image.
         - major
+        - physical
     - fix glitching (mentioned in user study with Mia above) when hovering over text.
+        - Error with hovering over the user image -- instead of user image, make it into hovering over the cover image itself so that there is more physical space for the mouse to hover over. 
         - critical
-    - mention only screenshots are allowed for now (because of max image size limit) as a popup (mentioned in user study with Mia above)
+        - physical
+    - mention as a popup that only screenshots are allowed for now, because of max image size limit that is allowed to be passed in without external packages.
         - critical
+        - physical
 - if time permits, add a lyrics feature to Cover Creation where users can put in their favorite lyrics of the day / play the song when clicked
     - this is because one of the feedback I got from Jasmine was that she would not use my app since she personalized her playlists on Spotify, and she could add an image and description for the playlist — for her, that was enough. So I want to add additional features outside of what I have on the app right now.
     - minor
+    - conceptual
 - Add Friends section on profile
-    - most social media apps have the number of friends on the user’s profile page → on click you can see a list of friends → on click you can visit other friends’ profile pages,
+    - most social media apps have the number of friends on the user’s profile page → on click you can see a list of friends → on click you can visit other friends’ profile pages.
     - I hope to implement this feature to reflect the user’s mental model -- users can see the number of friends on their profile page and navigate to their profiles.
     - major
+    - conceptual
