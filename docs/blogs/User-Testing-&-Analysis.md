@@ -25,19 +25,19 @@ One of the features of my app, snapshots, automatically “cleans up” after 24
 | request friend | Can you send a friend request to someone? Can you cancel it? | I haven’t had the chance to extensively test the friend feature, as I only have one spotify account. This would be a chance for me to test the friending feature extensively. | Does the user intuitively know that clicking the send friend request button again will cancel it? |
 | Snapshot friend feature | Can you check the snapshots all of your friends posted? | check if the user understands how to only filter for friends’ snapshots. | Do they understand that to look at snapshots, they should go to the `snapshots` page? |
 
-## User Study (0)
+## User Study 0
 
 The reason I wrote case study 0, is because I found a critical flaw in my app that required me to stop the session. Then, I had to recruit two other users to conduct the user testing normally, which is documented in `user study (1)` and user `study (2)` . The critical flaw was that I missed this part of the Spotify API documentation page: **Users may be able to log into a development mode app without having been allowlisted by the developer. However, API requests with an access token associated to that user and app will receive a 403 status code error.** My accounts were automatically allowlisted, so I did not notice anything wrong when I was testing with my accounts for the previous assignments. This taught me the importance of user testing, because imagine this happening when you rolled out your final product…
 
 For now, I will have to allowlist email accounts manually. If I upgrade my develop-stage app, this would be done automatically, but I did a quick search and it looks like it usually takes 3+ months for this to happen.
 
-## User Study (1)
+## User Study 1
 
 I interviewed a fellow junior, Mia, for my first case study. Since the home page automatically redirects the user to the login page if the user has never logged in before, Mia was logging into her Spotify account before I even asked her to. During the authentication process, I noticed how she didn’t even wait a second to read the permission page (i.e. what my app is asking for — access token, profile info, etc.), she immediately clicked authorize. Once she was in, I asked her to go to Spotify and play a song she liked and come back. She succesfully refreshed the page and saw the currently playing song appear on the home screen. 
 
 The first time she uploaded the image for the cover, it failed to load. I knew it was because of the image size, so at the end of the user study I asked her to try uploading a screenshot, which succesfully uploaded. The user testing revealed two import points about the cover creation part: 1. **there is no explanation about what the date means, so Mia just assumed it meant pick today’s date and selected today. 2. she also did not know what to write in the box above,** but realized she could write anything and wrote a note to herself about what the song meant for her. She also noted that on the profile page, **the text on the covers were “glitching”  when hovered over** consistently transitioning from the gray to black font and vise versa.
 
-When I told her this time to try creating a snapshot, she followed all the steps confidently and discovered the interactive “click to see image” part herself. However, in the debrief session after the post user study, she mentioned how it would be nice to have a notification/popup that says **“click to reveal.”** Also, she mentioned that nowhere in the app mentions snapshots disapper in 24 hours, so it would be nice to hint it by **adding expires on <date> beneath the snapshot.** For the friending part, she found it fun that she could see the other users on the explore page. She understood that clicking the green button twice would cancel the request, and accepted incoming friend requests smoothly. **However, I noticed her clicking the friend profile, assuming it will take her to the friend’s profile page.** This is not an implemented feature, but I would add it to my list of features to add.
+When I told her this time to try creating a snapshot, she followed all the steps confidently and discovered the interactive “click to see image” part herself. However, in the debrief session after the post user study, she mentioned how it would be nice to have a notification/popup that says **“click to reveal.”** Also, she mentioned that nowhere in the app mentions snapshots disapper in 24 hours, so it would be nice to hint it by **adding expires on some date beneath the snapshot.** For the friending part, she found it fun that she could see the other users on the explore page. She understood that clicking the green button twice would cancel the request, and accepted incoming friend requests smoothly. **However, I noticed her clicking the friend profile, assuming it will take her to the friend’s profile page.** This is not an implemented feature, but I would add it to my list of features to add.
 
 ### Opportunities for Improvement
 
@@ -62,7 +62,7 @@ When I told her this time to try creating a snapshot, she followed all the steps
     - conceptual
     - moderate
 
-## User Study (2)
+## User Study 2
 
 I interviewed a senior, Jasmine, for my second user study. She is interested in UX design, so I got a lot of feedback on that. She also did not hesitate to grant my app permission during the authentication process— she immediately clicked authorize. Once she was in, I asked her to play a song on her Spotify and get the currently listening to song — she played a song and successfully reloaded the page. When I asked her to create a cover, she struggled with some parts that I hope to address: 1. she **put the song name in the first text box**,  2. also **picked today’s date on the calendar**, and 3. She also was in a hurry to finish the user study as she told me she had assignments to do after, so she **did not upload an image at all**. This got me to consider **making the image and text and lock date all required,** so that the created cover contains all info instead of just containg a gray placeholder background where the image should have been.
 
@@ -74,7 +74,7 @@ Next I asked her to find only friends’ snapshots, I spotted a very interesting
 
 ### Opportunities for Improvement
 
-- Adllow users to edit/delete covers. 
+- Allow users to edit or delete covers. 
     - Jasmine asked if she could delete the cover she posted without an image.
     - major
     - physical
@@ -85,7 +85,7 @@ Next I asked her to find only friends’ snapshots, I spotted a very interesting
 - mention as a popup that only screenshots are allowed for now, because of max image size limit that is allowed to be passed in without external packages.
     - critical
     - physical
-- if time permits, add a lyrics feature to Cover Creation where users can put in their favorite lyrics of the day / play the song when clicked
+- if time permits, add a lyrics feature to Cover Creation where users can put in their favorite lyrics of the day or play the song when clicked
     - this is because one of the feedback I got from Jasmine was that she would not use my app since she personalized her playlists on Spotify, and she could add an image and description for the playlist — for her, that was enough. So I want to add additional features outside of what I have on the app right now.
     - minor
     - conceptual
