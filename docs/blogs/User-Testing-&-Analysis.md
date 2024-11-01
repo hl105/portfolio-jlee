@@ -78,8 +78,8 @@ Next I asked her to find only friends’ snapshots, I spotted a very interesting
     - Jasmine asked if she could delete the cover she posted without an image.
     - major
     - physical
-- fix glitching (mentioned in user study with Mia above) when hovering over text.
-    - Error with hovering over the user image -- instead of user image, make it into hovering over the cover image itself so that there is more physical space for the mouse to hover over. 
+- fix glitching when hovering over text.
+    - Instead of user image, make it so that the user can hover over the cover image itself so that there is more physical space for the mouse to hover over. 
     - critical
     - physical
 - mention as a popup that only screenshots are allowed for now, because of max image size limit that is allowed to be passed in without external packages.
