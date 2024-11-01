@@ -3,9 +3,13 @@ title: User Testing & Analysis
 layout: doc
 ---
 
+# User Testing & Analysis
+
 ## Populating with Real Data
 
 One of the features of my app, snapshots, automatically “cleans up” after 24 hours - i.e. it does not show up on the web page after 24 hours. Thus while the real data existed during user testing, it might be gone by the time the app is accessed for grading!
+
+![sn](../blog_assets/sn.png)
 
 ## Task List
 
@@ -37,7 +41,7 @@ When I told her this time to try creating a snapshot, she followed all the steps
 
 ### Opportunities for Improvement
 
-- Add “Locked until” sign before date selection, and don’t allow past dates to be selected
+- Add "Locked until" sign before date selection, and don’t allow past dates to be selected
     - user does not understand the calendar is for picking `locked until` date instead of current date
     - Instead of just having a calendar selection slot, add a line so that the user conceptually understands the feature better
     - conceptual
@@ -70,18 +74,17 @@ Next I asked her to find only friends’ snapshots, I spotted a very interesting
 
 ### Opportunities for Improvement
 
-- Add Cover features
-    - allow users to edit/delete covers. 
-        - Jasmine asked if she could delete the cover she posted without an image.
-        - major
-        - physical
-    - fix glitching (mentioned in user study with Mia above) when hovering over text.
-        - Error with hovering over the user image -- instead of user image, make it into hovering over the cover image itself so that there is more physical space for the mouse to hover over. 
-        - critical
-        - physical
-    - mention as a popup that only screenshots are allowed for now, because of max image size limit that is allowed to be passed in without external packages.
-        - critical
-        - physical
+- Adllow users to edit/delete covers. 
+    - Jasmine asked if she could delete the cover she posted without an image.
+    - major
+    - physical
+- fix glitching (mentioned in user study with Mia above) when hovering over text.
+    - Error with hovering over the user image -- instead of user image, make it into hovering over the cover image itself so that there is more physical space for the mouse to hover over. 
+    - critical
+    - physical
+- mention as a popup that only screenshots are allowed for now, because of max image size limit that is allowed to be passed in without external packages.
+    - critical
+    - physical
 - if time permits, add a lyrics feature to Cover Creation where users can put in their favorite lyrics of the day / play the song when clicked
     - this is because one of the feedback I got from Jasmine was that she would not use my app since she personalized her playlists on Spotify, and she could add an image and description for the playlist — for her, that was enough. So I want to add additional features outside of what I have on the app right now.
     - minor
