@@ -1,8 +1,7 @@
 ---
-title: "Phase2"
+title: phase 2
 layout: doc
 ---
-
 
 ## Broad Application Goals
 
@@ -17,7 +16,7 @@ Our app is called **Enlighten**, and it's for beginners in stargazing. Getting i
 
 
 <figure>
-                      <img src="https://res.cloudinary.com/df2rp6zoo/image/upload/v1731555575/w5ixtzsgoarrmwhafltc.png" alt="">
+                      <img src="https://res.cloudinary.com/df2rp6zoo/image/upload/v1731555858/r4fcs5rt1shi1jeddjqr.png" alt="">
                       <figcaption></figcaption>
                   </figure>
 
@@ -27,7 +26,10 @@ Our app is called **Enlighten**, and it's for beginners in stargazing. Getting i
 ### Light Pollution Map
 
 
-![image](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcgHL7RBGaCrX_US8TRHPudr3IpMu8GqjXuK4Npv5yfwyfh5z7TJN1kG94lCek3fHFfIaZH-ItmEZac6MEeSANkATrCnCfgmPkI6HhIaiLsbCd7r0NPexuV0Pe5W4vQ-YfikcG3NQ?key=xyo-dWE6cjyZ61vo4vVzqQ87)
+<figure>
+                      <img src="https://res.cloudinary.com/df2rp6zoo/image/upload/v1731555862/rngnywadinwtzvhdmnds.png" alt="">
+                      <figcaption></figcaption>
+                  </figure>
 
 - An online tool that displays global light pollution levels on an interactive map. Users can zoom into specific locations to see the intensity of light pollution in that area.
 - How it might be useful: Integrating a light pollution map into Enlighten can help users find nearby dark-sky locations optimal for stargazing. It also raises awareness about the impact of light pollution on observing the night sky.
@@ -36,7 +38,7 @@ Our app is called **Enlighten**, and it's for beginners in stargazing. Getting i
 
 
 <figure>
-                      <img src="https://res.cloudinary.com/df2rp6zoo/image/upload/v1731555576/awd55ibgxbftzavbw2bg.png" alt="">
+                      <img src="https://res.cloudinary.com/df2rp6zoo/image/upload/v1731555864/npl1pr3txb60hbmt0pxs.png" alt="">
                       <figcaption></figcaption>
                   </figure>
 
@@ -47,7 +49,7 @@ Our app is called **Enlighten**, and it's for beginners in stargazing. Getting i
 
 
 <figure>
-                      <img src="https://res.cloudinary.com/df2rp6zoo/image/upload/v1731555577/kglnk7fngh7x7o8cezh7.png" alt="">
+                      <img src="https://res.cloudinary.com/df2rp6zoo/image/upload/v1731555866/szjgg37npvaj1l9ss2kr.png" alt="">
                       <figcaption></figcaption>
                   </figure>
 
@@ -58,7 +60,7 @@ Our app is called **Enlighten**, and it's for beginners in stargazing. Getting i
 
 
 <figure>
-                      <img src="https://res.cloudinary.com/df2rp6zoo/image/upload/v1731555578/askka6ncsc6jerhoqktc.png" alt="">
+                      <img src="https://res.cloudinary.com/df2rp6zoo/image/upload/v1731555867/wh7r2yhc0h3g6zpi2vlp.png" alt="">
                       <figcaption></figcaption>
                   </figure>
 
@@ -69,7 +71,7 @@ Our app is called **Enlighten**, and it's for beginners in stargazing. Getting i
 
 
 <figure>
-                      <img src="https://res.cloudinary.com/df2rp6zoo/image/upload/v1731555579/d9glqezjbkwdsrtmtbbn.png" alt="">
+                      <img src="https://res.cloudinary.com/df2rp6zoo/image/upload/v1731555869/tlxgtbqdgx1djbdforxm.png" alt="">
                       <figcaption></figcaption>
                   </figure>
 
@@ -138,7 +140,7 @@ Scenario: Alex, who is interested in stargazing, wants to find a dark sky site a
 
 
 <figure>
-                      <img src="https://res.cloudinary.com/df2rp6zoo/image/upload/v1731555583/udy9r4kgusec5hkbkudp.png" alt="">
+                      <img src="https://res.cloudinary.com/df2rp6zoo/image/upload/v1731555872/grkdhonvnadjtpfhqiwu.png" alt="">
                       <figcaption></figcaption>
                   </figure>
 
@@ -150,7 +152,7 @@ Scenario: Emily, a beginner stargazer, has just observed her first shooting star
 
 
 <figure>
-                      <img src="https://res.cloudinary.com/df2rp6zoo/image/upload/v1731555584/v4muwp8woubhtnxntv5q.png" alt="">
+                      <img src="https://res.cloudinary.com/df2rp6zoo/image/upload/v1731555874/qyzjhqhdudxfzeu15o6s.png" alt="">
                       <figcaption></figcaption>
                   </figure>
 
@@ -162,7 +164,7 @@ Scenario: Juan, also a beginner stargazer, wants to do some impromptu stargazing
 
 
 <figure>
-                      <img src="https://res.cloudinary.com/df2rp6zoo/image/upload/v1731555585/gf8ls4cxh1bga9rk13j6.png" alt="">
+                      <img src="https://res.cloudinary.com/df2rp6zoo/image/upload/v1731555875/usmr3cik5aste45gctia.png" alt="">
                       <figcaption></figcaption>
                   </figure>
 
