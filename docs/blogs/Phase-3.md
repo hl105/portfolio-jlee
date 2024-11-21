@@ -155,14 +155,14 @@ layout: doc
 ### Usability criteria
 
 - **Discoverability**: The interface is intuitive and simple. The map uses Google Maps’s API, which the vast majority of users will be familiar with. The feed emulates the standard social media feed, with a series of posts that they can scroll down. The navbar is prominent on the left so that users know how to find different pages.
-- E**rror Tolerance:** If the wrong pin is clicked on the map, it is easy to click away. However, if the user clicks on the wrong celestial object on the tracker page, such as Mars instead of the Big Dipper, there is no back button to return to the previous page. Instead, the user has to click on the navbar again.
+- **Error Tolerance:** If the wrong pin is clicked on the map, it is easy to click away. However, if the user clicks on the wrong celestial object on the tracker page, such as Mars instead of the Big Dipper, there is no back button to return to the previous page. Instead, the user has to click on the navbar again.
 
 ### Physical heuristics
 
 - **Fitt’s Law:** As mentioned above, the navbar is far away from where information is displayed. While this prevents users from accidentally clicking on the navbar and is the best choice visually, it would be ideal for users to only need to use the navbar to switch to a different page. In other words, the user should be able to traverse within each page without having to click on the navbar.
 - **Accelerators:** There are currently no features to speed up usage for experienced users. One possible accelerator would be favoriting spots on the map, so that users have a shortcut to locating those spots.
 
-### Linguistic level:
+### Linguistic level
 
 - **Speak User’s Language:** The language used in the wireframes is easily understandable. Descriptions of celestial objects are intentionally kept simple for beginner stargazers.
 - **Information Scent:** In the forum wireframe, the text box has the default message “Type and share something with group”. This tells users that they can participate in the forum and encourages them to interact with other users.
