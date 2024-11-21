@@ -4,13 +4,13 @@ layout: doc
 ---
 
 
-# Phase 3 [Convergent Design]
+# Phase 3 `[Convergent Design]`
 
 
 ## Functional Design
 
 
-### Mapping [Item]:
+### `Mapping [Item]`:
 
 - **Purpose**: Provide a map display where users can zoom in/out on the map and view user-uploaded information based on location.
 - **Operational principle:** User zooms into map, finds a location, and clicks on it to view user-uploaded information and light pollution statistics specific to that location.
@@ -34,7 +34,7 @@ layout: doc
 	- author: one ObjectId
 	- location?: Tuple (x: one Number, y: one Number)
 	- description: one String
-	- hashtag: one list[String]
+	- hashtag: one `list[String]`
 	- image: one String
 	- likes: one Number
 	- posts: list Post
@@ -42,7 +42,7 @@ layout: doc
 	- createPost(author: ObjectId, description: String, image: String, location?: Tuple(x: Number, y: Number)): creates a post and returns a postId: String
 	- deletePost(user: ObjectId, postId: ObjectId): checks that user is the author of the post and if so, deletes the post
 	- editPost(user: ObjectId, postId: ObjectId, description: String)
-	- viewPosts(key: String, value: String): returns a list of posts with Post[key]=value
+	- viewPosts(key: String, value: String): returns a list of posts with `Post[key]=value`
 	- getLikes(postId: ObjectId): returns the number of likes
 	- boostPost(postId: ObjectId): moves the post earlier in posts by 2 spots
 	- getHashtags(postId: ObjectId) returns the hashtags from the post
@@ -108,7 +108,7 @@ layout: doc
 **app** Enlighten
 
 
-**include** Authenticating [Username, Password] include Sessioning [User] include Mapping [Post] include Posting [User] include Foruming [User, Post] include Tracking [User] include Rewarding [User]
+**include** Authenticating [Username, Password] include `Sessioning [User] include Mapping [Post] include Posting [User] include Foruming [User, Post] include Tracking [User] include Rewarding [User]`
 
 
 **sync** boostPosts(post: objectId):
@@ -213,22 +213,6 @@ Tasks:
 	- Frontend: Francisco. Deadline 11/25
 - User testing
 	- Tina, Johanna, Helena each do two, Francisco does one. Deadline 12/10
-
-|   |                                                                            |   | Wed 11/20
-P3 DUE                                                                                       |   |   |   |
-| - | -------------------------------------------------------------------------- | - | ------------------------------------------------------------------------------------------------------ | - | - | - |
-|   | Mon 11/25
-TA Meeting
-Internal deadline for Posting, Rewarding and Tracking |   | Wed 11/27
-Alpha Release DUE (completion) 2 concepts fully implemented
-X styling required               |   |   |   |
-|   | Mon 12/3
-TA Meeting                                                        |   | Wed 12/5
-Beta Release DUE 2 concepts basically everything + populate data +  task list for user testng |   |   |   |
-|   | Mon 12/10
-TA Meeting                                                       |   | Wed 12/12
-User Testing                                                                                 |   |   |   |
-
 
 ## Contingency Plan
 
