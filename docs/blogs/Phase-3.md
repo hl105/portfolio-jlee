@@ -84,12 +84,12 @@ layout: doc
 	- viewEvents(): lets the user view which astronomy related events are viewable in their area.
 	- postEvent(time: Date, location: Tuple (x: Number, y: Number), description: String, viewable: Boolean): post an event which will show up to users who are close by.
 
-### Rewarding [User, Post]:
+### Rewarding [User, Post]
 
 - **Purpose**: Reward and boost users that make frequent, high-quality posts so that beginner users know of experienced users to reach out to.
 - **Operational Principle:** Based on the frequency of the posts and the number of likes, users can earn badges beside their names, which show up next to their names when they post.
 - **State**:
-	- badges: dictionary of lists {User.objectId: [Badge, points]}
+	- badges: dictionary of lists `{User.objectId: [Badge, points]}`
 	- Badge:
 		- name: one String e.g. “Rising Stargazer Badge”
 		- logo: one String //links to an image
@@ -145,8 +145,7 @@ layout: doc
 
 ## **Wireframes**
 
-
-[Link to Figma Design](https://www.figma.com/design/XiyPgO5MwFG2t2EEgxdT1V/Enlighten-P3?node-id=0-1&node-type=canvas&t=z1IjS1zHZxC3R8U8-0)
+https://www.figma.com/design/XiyPgO5MwFG2t2EEgxdT1V/Enlighten-P3?node-id=0-1&node-type=canvas&t=z1IjS1zHZxC3R8U8-0
 
 
 ## **Heuristic Evaluation**
@@ -190,9 +189,7 @@ layout: doc
 
 ## **Implementation Plan**
 
-
 Order of implementing concepts: Posting, Rewarding, Mapping, Foruming, Tracking
-
 
 Tasks:
 
@@ -215,7 +212,6 @@ Tasks:
 	- Tina, Johanna, Helena each do two, Francisco does one. Deadline 12/10
 
 ## Contingency Plan
-
 
 We plan to reward badges to users for both posting and participating in forums. However, if we don’t have time, we can reward badges only for posting. We can also create less badges. In addition, since tracking doesn’t rely on any other concepts, it can be expanded or simplified as needed. For example, we can track just planets and moons rather than planets, moons, stars, and constellations. Lastly, if adding the heatmap proves too complicated, we can display the regular map. We aim to flexibly add or change these features after each TA and group meeting. 
 
